@@ -11,7 +11,7 @@
 **Mirror Leech Bot** is a _multipurpose_ Telegram Bot written in Python for mirroring files on the Internet to our beloved Google Drive. Based on [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
 # Features:
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adhinav2007/mirror-leech-bot
 ## By [Anas](https://github.com/anasty17) & [Appeza](https://github.com/Appeza)
 - qBittorrent
 - Rss feed reader
